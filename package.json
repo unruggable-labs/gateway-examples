@@ -2,6 +2,7 @@
   "name": "@unruggable-labs/gateway-examples",
   "description": "Example code for writing client integrations using the Unruggable Gateway codebase.",
   "version": "0.0.1",
+  "type": "module",
   "keywords": [
     "Ethereum",
     "Solidity",
@@ -17,7 +18,7 @@
   "dependencies": {
     "@adraffy/blocksmith": "^0.0.26",
     "@types/node": "^22.7.6",
-    "@unruggable/gateways": "^0.1.3",
+    "@unruggable/gateways": "^1.2.5",
     "dotenv": "^16.4.5",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.1",
